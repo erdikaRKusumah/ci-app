@@ -32,7 +32,7 @@
                     <option value="Teknik Perencanaa & Wilayah Kota">306 - Teknik Perencanaa & Wilayah Kota</option>
                 </select>
             </div>
-            <button type="submit" name="tambah" class="btn btn-outline-primary float-right">
+            <button type="submit" name="tambah" class="btn btn-primary float-right">
             Tambah Data
             </button>
         </form>

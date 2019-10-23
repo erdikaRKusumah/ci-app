@@ -35,12 +35,9 @@
                     <?php endforeach;?>
                 </select>
             </div>
-            <button type="submit" name="ubah" class="btn btn-outline-success float-right ml-2">
+            <button type="submit" name="ubah" class="btn btn-success float-right ml-2">
             Ubah Data
             </button>
-            <a href="<?=base_url()?>mahasiswa" class="btn btn-outline-primary float-right">
-            Kembali
-            </a>
         </form>
         <br>
         </div>
