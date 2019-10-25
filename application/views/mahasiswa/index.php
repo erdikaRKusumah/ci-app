@@ -5,7 +5,7 @@
 
         <?php if($this->session->flashdata('flash')): ?>
 
-       <div class="row mt-3">
+       <!-- <div class="row mt-3">
             <div class="col-md-6">  
                 <div class="alert alert-success alert-dismissible fade show" role="alert">
                 Data mahasiswa <strong>Berhasil</strong> <?=$this->session->flashdata('flash');?>
@@ -14,7 +14,7 @@
             </button>
             </div>
             </div>
-        </div> 
+        </div>  -->
 
 
 
